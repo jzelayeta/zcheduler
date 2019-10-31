@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 logs
 target
 /.idea
@@ -8,3 +9,7 @@ target
 /RUNNING_PID
 /public
 *.sc
+=======
+*.class
+*.log
+>>>>>>> c2b3bf817a4a61cdb639bec6e887459d49977b91
